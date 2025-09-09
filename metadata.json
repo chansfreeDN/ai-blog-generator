@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Post Generator",
+  "description": "An application that uses AI to generate professional, visually appealing blog posts based on a user-provided topic and a selected color theme, following a detailed set of structural and stylistic guidelines.",
+  "requestFramePermissions": []
+}
